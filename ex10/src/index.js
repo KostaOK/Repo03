@@ -3,7 +3,7 @@ function main (numOne, numTwo) {
     var numOne;
     var numTwo;
     var product;
-    product = numOne + numTwo
+    product = numOne * numTwo
     // Only change code above this line
     return product;
 }
